@@ -99,16 +99,16 @@ After going through the ResNet base a Dense, Normalization and Dropout layer wer
 
 # Results
 The model reached a Training accuracy of 99% with a Validation accuracy of 88%  
-![image](https://github.com/85Jakob/Bird-Classifier/assets/24831044/2fbada1d-c8c6-4c66-9936-c5321aa1ab3e)
+![image](https://github.com/85Jakob/Bird-Classifier/assets/24831044/2fbada1d-c8c6-4c66-9936-c5321aa1ab3e)  
 
-The model also had a Training loss of 0.015 and Validation loss of 0.51
-![image](https://github.com/85Jakob/Bird-Classifier/assets/24831044/6db5f8dc-5afd-4b99-9856-cf230f41afdb)
+The model also had a Training loss of 0.015 and Validation loss of 0.51  
+![image](https://github.com/85Jakob/Bird-Classifier/assets/24831044/6db5f8dc-5afd-4b99-9856-cf230f41afdb)  
 
-When the model was tested on the Test set it achieved an accuracy of 89%. The following are some predictions the model made on the test set. 
+When the model was tested on the Test set it achieved an accuracy of 89%. The following are some predictions the model made on the test set.   
 
-![Screenshot from 2023-12-21 12-12-18](https://github.com/85Jakob/Bird-Classifier/assets/24831044/ede1f284-bae0-4d15-815a-e70e4aceba9e)  
+![Screenshot from 2023-12-21 12-12-18](https://github.com/85Jakob/Bird-Classifier/assets/24831044/ede1f284-bae0-4d15-815a-e70e4aceba9e)    
 
-The following are the scores per class
+The following are the scores per class  
 
 ```
                                precision    recall  f1-score   support
